@@ -1,0 +1,933 @@
+Relatório de Event Source Mappings das funções Lambda
+Nome da função: whitelabel-handler-usuario-dev-custom-sms-sender
+{
+    "ResponseMetadata": {
+        "RequestId": "b5815397-2c8e-4883-aed3-13d9aed81bdb",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:50 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "b5815397-2c8e-4883-aed3-13d9aed81bdb"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: start-stop-nodegroup-obs
+{
+    "ResponseMetadata": {
+        "RequestId": "57ea73a1-5f03-4d2b-a4bb-784dec1eeef9",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:50 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "57ea73a1-5f03-4d2b-a4bb-784dec1eeef9"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: handler-compra-develop-compraHandler
+Erro ao buscar event source mappings: Object of type datetime is not JSON serializable
+Nome da função: dry-handler-chip-develop-handlerActivateGateway
+{
+    "ResponseMetadata": {
+        "RequestId": "816fa606-97a5-44b5-ba5e-ffb7c4eca7fe",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:51 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "816fa606-97a5-44b5-ba5e-ffb7c4eca7fe"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: dry-pay-check-boleto-dev-checkBoleto
+{
+    "ResponseMetadata": {
+        "RequestId": "b017449b-e0d6-4162-93f0-a58499788bc5",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:51 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "b017449b-e0d6-4162-93f0-a58499788bc5"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: handler-esim-develop-listEsim
+{
+    "ResponseMetadata": {
+        "RequestId": "69b1226f-1577-4108-9301-da7a6e55eae7",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:51 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "69b1226f-1577-4108-9301-da7a6e55eae7"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: start_ec2
+{
+    "ResponseMetadata": {
+        "RequestId": "71687106-8593-4a39-b791-8497f5667ab3",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:51 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "71687106-8593-4a39-b791-8497f5667ab3"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: dry-handler-chip-develop-chipWorker
+Erro ao buscar event source mappings: Object of type datetime is not JSON serializable
+Nome da função: whitelabel-handler-usuario-dev-update-user
+Erro ao buscar event source mappings: Object of type datetime is not JSON serializable
+Nome da função: teste
+{
+    "ResponseMetadata": {
+        "RequestId": "664cf24d-947a-4f67-af52-930de1c2b109",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:52 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "664cf24d-947a-4f67-af52-930de1c2b109"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: crm-sms-notification-develop-executeNotificationSchedule
+{
+    "ResponseMetadata": {
+        "RequestId": "a2413dd0-2518-486f-a2a2-96b89bd586ca",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:52 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "a2413dd0-2518-486f-a2a2-96b89bd586ca"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: handler-authentication-develop-authentication
+{
+    "ResponseMetadata": {
+        "RequestId": "f18ee91f-9a9d-416e-808f-72e0b2c53fa5",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:52 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "f18ee91f-9a9d-416e-808f-72e0b2c53fa5"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: dry-handler-recarga-develop-handlerRecargaGateway
+{
+    "ResponseMetadata": {
+        "RequestId": "12c40c19-9bde-40aa-8e8b-e52374f5e435",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:52 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "12c40c19-9bde-40aa-8e8b-e52374f5e435"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: job-dynamo
+{
+    "ResponseMetadata": {
+        "RequestId": "bdc1fba0-5dd3-462f-b3a5-6b91c659c6b2",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:53 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "bdc1fba0-5dd3-462f-b3a5-6b91c659c6b2"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: bff-navio-laricel-develop-validarTelefone
+{
+    "ResponseMetadata": {
+        "RequestId": "3bfb0cce-a42f-4047-82a6-08017f6080ed",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:53 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "3bfb0cce-a42f-4047-82a6-08017f6080ed"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: handle-sms-controller-dev-controllerSMS
+{
+    "ResponseMetadata": {
+        "RequestId": "fbb4e580-8fbc-4017-afcf-ff8d517ec8ca",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:53 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "fbb4e580-8fbc-4017-afcf-ff8d517ec8ca"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: handler-compra-develop-atualizaStatusCompra
+{
+    "ResponseMetadata": {
+        "RequestId": "2dc5bf02-b2e1-4fd4-9952-7d53f7ce5938",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:53 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "2dc5bf02-b2e1-4fd4-9952-7d53f7ce5938"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: crm-sms-notification-dev-smsNotification
+{
+    "ResponseMetadata": {
+        "RequestId": "1e17003a-1345-4c76-86b6-8ad0db3a3060",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:53 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "1e17003a-1345-4c76-86b6-8ad0db3a3060"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: testeSms
+{
+    "ResponseMetadata": {
+        "RequestId": "6ad50908-38ea-4f35-ab55-96f7f3c28420",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:53 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "6ad50908-38ea-4f35-ab55-96f7f3c28420"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: stop_ec2
+{
+    "ResponseMetadata": {
+        "RequestId": "6f2ea7d2-47fe-4b6d-ad1c-d2398df15586",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:54 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "6f2ea7d2-47fe-4b6d-ad1c-d2398df15586"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: dry-pay-check-boleto-dev-paymentWebhook
+{
+    "ResponseMetadata": {
+        "RequestId": "4e248ea0-7e27-447f-ae05-9790700e39a3",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:54 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "4e248ea0-7e27-447f-ae05-9790700e39a3"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: dry-handler-recarga-develop-handlerSimulaRecarga
+{
+    "ResponseMetadata": {
+        "RequestId": "bcaa2bf1-fb0f-4e01-b670-8a0d99a44f19",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:54 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "bcaa2bf1-fb0f-4e01-b670-8a0d99a44f19"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: serverless-hello-world-develop-hello
+{
+    "ResponseMetadata": {
+        "RequestId": "26f20206-0060-4a36-89da-488c49ec515a",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:54 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "26f20206-0060-4a36-89da-488c49ec515a"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: handler-logistica-develop-logisticaHandler
+Erro ao buscar event source mappings: Object of type datetime is not JSON serializable
+Nome da função: dry-handler-consumo-develop-handlerSms
+{
+    "ResponseMetadata": {
+        "RequestId": "d9fb16ba-a08c-4ff2-ae84-14b8612aa712",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:55 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "d9fb16ba-a08c-4ff2-ae84-14b8612aa712"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: dry-handler-chip-develop-handlerExtractGateway
+{
+    "ResponseMetadata": {
+        "RequestId": "e38663a5-1778-4bae-b3e0-01cae9195207",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:55 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "e38663a5-1778-4bae-b3e0-01cae9195207"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: handler-authentication-develop-authorizer
+{
+    "ResponseMetadata": {
+        "RequestId": "d16ecb30-32f1-46c8-946a-ff4b218a43bf",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:55 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "d16ecb30-32f1-46c8-946a-ff4b218a43bf"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: handler-esim-develop-createEsimBatch
+{
+    "ResponseMetadata": {
+        "RequestId": "93184577-032f-496d-81c4-b166f6ce59fa",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:55 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "93184577-032f-496d-81c4-b166f6ce59fa"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: dry-consolidacao-bss-develop-get-changes
+{
+    "ResponseMetadata": {
+        "RequestId": "18383cb0-a106-4dfe-a744-93d03067c076",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:55 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "18383cb0-a106-4dfe-a744-93d03067c076"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: whitelabel-handler-usuario-develop-post-confirmation
+{
+    "ResponseMetadata": {
+        "RequestId": "e4d66a97-d907-4306-ab13-1bcc48959927",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:56 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "e4d66a97-d907-4306-ab13-1bcc48959927"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: crm-push-notification-develop-pushNotification
+Erro ao buscar event source mappings: Object of type datetime is not JSON serializable
+Nome da função: dry-handler-consumo-develop-handlerVoz
+{
+    "ResponseMetadata": {
+        "RequestId": "9bfcc6ec-2adc-495a-b9e1-f1fe5e5ac6f2",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:56 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "9bfcc6ec-2adc-495a-b9e1-f1fe5e5ac6f2"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: StartStopEKS
+{
+    "ResponseMetadata": {
+        "RequestId": "dc7d3798-6b30-49cf-a952-835dcd691a6c",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:56 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "dc7d3798-6b30-49cf-a952-835dcd691a6c"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: handler-auditoria-develop-listAuditEntries
+{
+    "ResponseMetadata": {
+        "RequestId": "6fb97ef0-e814-44ae-b137-046576cfec3f",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:56 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "6fb97ef0-e814-44ae-b137-046576cfec3f"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: whitelabel-handler-usuario-develop-custom-resource-existing-cup
+{
+    "ResponseMetadata": {
+        "RequestId": "2c6a6af2-b882-4e56-b809-4af5ea249b43",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:57 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "2c6a6af2-b882-4e56-b809-4af5ea249b43"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: Start-rds
+{
+    "ResponseMetadata": {
+        "RequestId": "caffddfa-987e-4b9a-a130-f3067f4994c7",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:57 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "caffddfa-987e-4b9a-a130-f3067f4994c7"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: lambda-sender-confirmation-code-develop-custom-sms-sender
+{
+    "ResponseMetadata": {
+        "RequestId": "22fc4331-1d45-4fc8-ad1b-2c296f667948",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:57 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "22fc4331-1d45-4fc8-ad1b-2c296f667948"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: handler-esim-develop-provisioningEsimMain
+Erro ao buscar event source mappings: Object of type datetime is not JSON serializable
+Nome da função: handler-auditoria-develop-listAuditType
+{
+    "ResponseMetadata": {
+        "RequestId": "70c7397c-07df-4345-b176-debd99029df6",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:57 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "70c7397c-07df-4345-b176-debd99029df6"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: whitelabel-handler-usuario-develop-pre-signup
+{
+    "ResponseMetadata": {
+        "RequestId": "928fb71a-fa3e-4a49-a97d-b27e886b7518",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:58 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "928fb71a-fa3e-4a49-a97d-b27e886b7518"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: handler-authentication-develop-check
+{
+    "ResponseMetadata": {
+        "RequestId": "e0d33c15-613f-4ea0-998d-649ef9303f10",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:58 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "e0d33c15-613f-4ea0-998d-649ef9303f10"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: dry-handler-chip-develop-activateChip
+{
+    "ResponseMetadata": {
+        "RequestId": "17195e4a-73f6-4772-8cf1-7f51962b2d06",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:58 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "17195e4a-73f6-4772-8cf1-7f51962b2d06"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: handler-auditoria-develop-createAuditEntry
+{
+    "ResponseMetadata": {
+        "RequestId": "a76f5d7e-ebd8-4c2a-8591-b04c9c5a0437",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:58 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "a76f5d7e-ebd8-4c2a-8591-b04c9c5a0437"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: crm-sms-notification-develop-smsNotification
+Erro ao buscar event source mappings: Object of type datetime is not JSON serializable
+Nome da função: handler-esim-develop-getBySqPedidoItem
+{
+    "ResponseMetadata": {
+        "RequestId": "26a75452-ccc1-49e1-89cd-2edaeca8892d",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:59 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "26a75452-ccc1-49e1-89cd-2edaeca8892d"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: dry-pay-gen-boleto-dev-genBoleto
+{
+    "ResponseMetadata": {
+        "RequestId": "c77f1582-b932-491b-b290-a427da641df9",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:59 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "c77f1582-b932-491b-b290-a427da641df9"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: whitelabel-handler-usuario-develop-update-user
+{
+    "ResponseMetadata": {
+        "RequestId": "4217e426-1c86-48a9-9568-ef3058054d3f",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:59 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "4217e426-1c86-48a9-9568-ef3058054d3f"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: dry-handler-recarga-develop-handlerBeneficio
+Erro ao buscar event source mappings: Object of type datetime is not JSON serializable
+Nome da função: whitelabel-handler-usuario-develop-custom-sms-sender
+{
+    "ResponseMetadata": {
+        "RequestId": "d2926384-b9eb-43ee-a90f-b0eaf20a160b",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:40:59 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "d2926384-b9eb-43ee-a90f-b0eaf20a160b"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: dry-handler-chip-develop-handlerAccountGateway
+{
+    "ResponseMetadata": {
+        "RequestId": "6da99593-22f2-4c7b-997c-02887d0ac596",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:41:00 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "6da99593-22f2-4c7b-997c-02887d0ac596"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: dry-handler-consumo-develop-handlerDados
+{
+    "ResponseMetadata": {
+        "RequestId": "f975cc3c-2a90-43e9-abbb-4bdadd9b1830",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:41:00 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "f975cc3c-2a90-43e9-abbb-4bdadd9b1830"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: dry-sites-develop-edge
+{
+    "ResponseMetadata": {
+        "RequestId": "64422ce0-77ae-42ff-923a-4ffe5037d485",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:41:00 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "64422ce0-77ae-42ff-923a-4ffe5037d485"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: stop-db-dry-pay
+{
+    "ResponseMetadata": {
+        "RequestId": "c2c2b5fd-b4f1-4597-a949-53661300c840",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:41:01 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "c2c2b5fd-b4f1-4597-a949-53661300c840"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: dry-pay-handler-recorrencias-dev-handlerRecorrencias
+{
+    "ResponseMetadata": {
+        "RequestId": "c4ab7a04-c1a2-465d-bfe1-1ea111c7adce",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:41:01 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "c4ab7a04-c1a2-465d-bfe1-1ea111c7adce"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: whitelabel-handler-usuario-dev-post-confirmation
+{
+    "ResponseMetadata": {
+        "RequestId": "f05aa49a-4252-4e93-94f1-d88f457f739b",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:41:01 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "f05aa49a-4252-4e93-94f1-d88f457f739b"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: dry-consolidacao-bss-develop-update-msisdns
+Erro ao buscar event source mappings: Object of type datetime is not JSON serializable
+Nome da função: StartStopNewEKS
+{
+    "ResponseMetadata": {
+        "RequestId": "e3a5765a-0b8a-408d-b06e-a2822f91fafa",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:41:01 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "e3a5765a-0b8a-408d-b06e-a2822f91fafa"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: InstanceScheduler-InstanceSchedulerMain
+{
+    "ResponseMetadata": {
+        "RequestId": "03f322b8-1ba5-4e07-af21-029a7c7ac27c",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:41:02 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "03f322b8-1ba5-4e07-af21-029a7c7ac27c"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: crm-push-notification-dev-pushNotification
+{
+    "ResponseMetadata": {
+        "RequestId": "c0ec6773-dbb5-4fd3-acd4-ef11ff3b9996",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:41:02 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "c0ec6773-dbb5-4fd3-acd4-ef11ff3b9996"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: handle-status-compra-develop-atualizaStatusCompra
+{
+    "ResponseMetadata": {
+        "RequestId": "f9a264a6-2eb3-421c-9ed0-efef52668263",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:41:02 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "f9a264a6-2eb3-421c-9ed0-efef52668263"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: aws-controltower-NotificationForwarder
+{
+    "ResponseMetadata": {
+        "RequestId": "3d3660b0-7e77-416d-b8ab-8e770e225d5e",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:41:02 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "3d3660b0-7e77-416d-b8ab-8e770e225d5e"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: dry-handler-recarga-develop-handlerRecarga
+Erro ao buscar event source mappings: Object of type datetime is not JSON serializable
+Nome da função: crm-push-notification-develop-executeNotificationSchedule
+{
+    "ResponseMetadata": {
+        "RequestId": "dce47115-5304-42d1-aa0f-6dae556aef74",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:41:03 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "dce47115-5304-42d1-aa0f-6dae556aef74"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: bff-navio-laricel-develop-registrarFormulario
+{
+    "ResponseMetadata": {
+        "RequestId": "b26b6adb-49fc-4419-b72f-e9bedf2ae845",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:41:03 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "b26b6adb-49fc-4419-b72f-e9bedf2ae845"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: whitelabel-handler-usuario-dev-pre-signup
+{
+    "ResponseMetadata": {
+        "RequestId": "9926e03c-2f3e-4395-a412-b1bc302f4826",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:41:03 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "9926e03c-2f3e-4395-a412-b1bc302f4826"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: dry-handler-consumo-develop-handlerRecarga
+{
+    "ResponseMetadata": {
+        "RequestId": "dd3136f7-bbdc-4c48-86cb-de6611d67812",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:41:03 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "dd3136f7-bbdc-4c48-86cb-de6611d67812"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
+Nome da função: dry-handler-relatorio-recarga-programada
+{
+    "ResponseMetadata": {
+        "RequestId": "52064a1a-991e-4d2a-be5d-b7a4122d987c",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Thu, 03 Jul 2025 12:41:03 GMT",
+            "content-type": "application/json",
+            "content-length": "44",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "52064a1a-991e-4d2a-be5d-b7a4122d987c"
+        },
+        "RetryAttempts": 0
+    },
+    "EventSourceMappings": []
+}
